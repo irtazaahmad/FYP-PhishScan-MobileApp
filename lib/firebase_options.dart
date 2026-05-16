@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAidCXM3BdkCUMdnWN2M3IBPyxcB_q6bNM',
+    apiKey: '', //Enter your personal firebase API Key
     appId: '1:495999335115:android:e6e300a744124515c6f94e',
     messagingSenderId: '495999335115',
     projectId: 'phishing-c4f43',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDe_RjG_xWvPE0LHTFZNuHOQY8d0xTGzXk',
+    apiKey: '',  //Enter your personal firebase API Key
     appId: '1:495999335115:ios:485110c54e455d7cc6f94e',
     messagingSenderId: '495999335115',
     projectId: 'phishing-c4f43',
